@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "criminal-network-mcp": {
+      "command": "python",
+      "args": ["c:/Users/Lenovo/OneDrive/Desktop/criminal network/mcp_server.py"],
+      "env": {}
+    }
+  }
+}
